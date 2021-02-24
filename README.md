@@ -26,6 +26,7 @@ Resource to learn kotlin
 	 - ViewModel
 	 - Live Data
 	 - Room is a SQLite object mapping library.
+- RxJava, RxKotlin, RxAndroid
 
 ## Some Online course to learn
 https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
