@@ -23,6 +23,14 @@ Resource to learn kotlin
 - Retrofit
 - Gson
 - Android architecture  component [more](https://developer.android.com/topic/libraries/architecture)
-  - ViewModel
-  - Live Data
-  - Room is a SQLite object mapping library.
+	 - ViewModel
+	 - Live Data
+	 - Room is a SQLite object mapping library.
+
+## Some Online course to learn
+https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+https://developer.android.com/guide
+https://www.raywenderlich.com
+
+## Other roadmap detail in everything
+https://github.com/mobile-roadmap/android-developer-roadmap
