@@ -15,3 +15,14 @@ Resource to learn kotlin
 - Fragment
 - Use intent & intent filter
 - understand context
+- Data privacy and permission [more](https://www.raywenderlich.com/6901838-data-privacy-for-android)
+- Secure network data [more](https://www.raywenderlich.com/10056112-securing-network-data-tutorial-for-android "more")
+- Understand Dependency injection. [more](https://developer.android.com/training/dependency-injection "more")
+- Koin Dependency injection (i always use this) [more](https://insert-koin.io) 
+- Glide
+- Retrofit
+- Gson
+- Android architecture  component [more](https://developer.android.com/topic/libraries/architecture)
+ - ViewModel
+ - Live Data
+ - Room is a SQLite object mapping library.
